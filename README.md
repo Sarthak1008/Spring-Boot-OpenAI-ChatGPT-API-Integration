@@ -1,4 +1,14 @@
-<h2>Project Overview:</h2>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Spring Boot + OpenAI ChatGPT API Integration</title>
+</head>
+
+<body>
+    <h1>Spring Boot + OpenAI ChatGPT API Integration</h1>
+
+    <h2>Project Overview:</h2>
     <p>The <strong>Spring Boot + OpenAI ChatGPT API Integration</strong> project aims to demonstrate the integration of the OpenAI ChatGPT API into a Spring Boot application. OpenAI's ChatGPT API provides state-of-the-art conversational AI capabilities, allowing developers to build chatbots, virtual assistants, and natural language processing applications.</p>
 
     <h2>Features:</h2>
@@ -39,3 +49,6 @@
 
     <h2>Conclusion:</h2>
     <p>The <strong>Spring Boot + OpenAI ChatGPT API Integration</strong> project showcases the seamless integration of cutting-edge conversational AI capabilities into Spring Boot applications, empowering developers to build intuitive and intelligent chatbot solutions. By leveraging the power of Spring Boot and OpenAI's ChatGPT API, businesses can enhance customer interactions, streamline processes, and drive innovation in natural language processing applications.</p>
+</body>
+
+</html>
